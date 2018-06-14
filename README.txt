@@ -1,0 +1,1 @@
+This is my June 2018 capstone project for Codecademy's Pro Intensive SQL course. I have included both the source code and the presentation.
